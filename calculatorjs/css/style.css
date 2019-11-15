@@ -1,0 +1,36 @@
+html,
+body {
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+    width: 100%;
+}
+
+#content {
+    color: blue;
+    font-size: 40px;
+    background-color: white;
+    text-align: center;
+}
+
+h1 {
+    color: pink;
+    font-size: 15px;
+    background-color: white;
+}
+
+.bt {
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    align-content: center;
+    background-color: transparent;
+    margin: 10px;
+}
+
+.img {
+    height: 12px;
+    width: 12px;
+    text-align: center;
+    align-content: center;
+}
